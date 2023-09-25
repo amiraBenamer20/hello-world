@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hello Amira this time from ansible (automated BRAVO), *_* , New user Register for DevOps Learning</h1>
+    <h1>Hello Amira, you did it, completed CI/CD pipeline</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
